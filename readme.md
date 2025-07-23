@@ -1,4 +1,4 @@
-A script I wrote for printing PDF textbooks in folios for bookbinding.
+A script I wrote for printing PDF textbooks in folio for bookbinding.
 
 Usage
 ```
